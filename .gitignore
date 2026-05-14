@@ -1,0 +1,13 @@
+# Claude Code internal files
+.claude/
+
+# Arduino build artifacts
+build/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Windows
+Thumbs.db
+Desktop.ini
